@@ -20,3 +20,4 @@
 -------------------------------------
 分工資訊:
 周佑貞1B: 編寫程式,GitHub,PPT製作&報告
+報告:https://docs.google.com/presentation/d/1cF33fD5ZoYJRZ8SR3DgNuxjs_Z-H6pgq/edit#slide=id.p2
